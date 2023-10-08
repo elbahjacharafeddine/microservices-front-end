@@ -1,0 +1,6 @@
+@media screen {
+	.rowRegistration {
+		visibility: hidden;
+        display:none;
+	}
+}
